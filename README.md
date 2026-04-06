@@ -14,5 +14,7 @@ A small OT/ICS lab project that simulates a temperature control process with a P
 - **HR 2** = alarm
 
 ## Run
+´´´bash
 python main.py
 python hmi.py
+´´´
