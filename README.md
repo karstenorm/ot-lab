@@ -1,6 +1,6 @@
 # OT-lab
 
-A small OT/ICS lab project that simulates a temperature control process with a PLC and a simple HMI.
+A simple OT/ICS lab project that simulates a temperature control process with a PLC and a HMI.
 
 ## Components
 - **Process**: simulates a heating/cooling process
