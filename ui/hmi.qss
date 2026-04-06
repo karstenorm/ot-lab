@@ -1,0 +1,20 @@
+QPushButton {
+    font-size: 16px;
+    background-color: gray;
+    padding: 10px;
+}
+QPushButton:hover {
+    background-color: darkgray;
+}
+QPushButton:pressed {
+    background-color: lightgray;
+}
+QLabel {
+    padding: 10px;
+}
+QSpinBox {
+    font-size: 16px;
+}
+QCheckBox {
+    margin-bottom: 10px;
+}
